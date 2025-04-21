@@ -5,6 +5,7 @@ int main(){
 
     cin >> c;
     cout<< c;
-
+  
+    int a = 69;
     return 0;
 }
